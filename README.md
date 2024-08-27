@@ -36,9 +36,3 @@ The **Tracking App** is designed to monitor road conditions, traffic levels, and
 
 - **Traffic Prediction:**
   - Noise and speed data help predict traffic conditions and classify areas (e.g., residential, business).
-
-## Setup and Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tracking-app.git
